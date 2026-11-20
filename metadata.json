@@ -1,0 +1,6 @@
+{
+  "name": "Apex Quant — AI Stock Trend Predictor",
+  "description": "Quantitative stock trend forecasting, neural network model lab, algorithmic strategy backtester, and Python/TensorFlow pipeline generator by Apex Quant Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
